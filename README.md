@@ -1,3 +1,11 @@
+# TO RUN
+- Go to RAG_app folder
+- to add new data execute
+- python run_new_data.py
+- if you want to runn RAG system once you added the data
+- python run_RAG.py
+
+
 ## for re-ranking Cross_Encoders
 https://huggingface.co/cross-encoder/ms-marco-MiniLM-L-12-v2?text=I+like+you.+I+love+you
 cross-encoder/ms-marco-MiniLM-L-12-v2
