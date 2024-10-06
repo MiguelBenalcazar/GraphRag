@@ -1,0 +1,163 @@
+[
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-17-9.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_0-1727606475",
+    "text": "Table 5. Accuracy Rate of NLU Tasks"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-19-15.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_1-1727606497",
+    "text": "Figure 8. Categorized Filter Parameters (left) & Value Prediction (right)"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-28-23.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_2-1727606533",
+    "text": "Figure 15. Example Conversations and Visualization of VA Prototype"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-18-10.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_3-1727606575",
+    "text": "Figure 7. Confusion Matrices for TC Labels: Zero-shot (left) & Few-shot (right)"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-19-16.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_4-1727606612",
+    "text": "Table 6. Ablation Study Results"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-8-1.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_5-1727606638",
+    "text": "Figure 1. Overview of BIM-GPT Framework"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-19-13.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_6-1727606670",
+    "text": "Figure 8. Categorized Filter Parameters (left) & Value Prediction (right)"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-11-4.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_7-1727606696",
+    "text": "Figure 4. Intent Prompt Example of Dynamic Template"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-18-11.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_8-1727606717",
+    "text": "Figure 7. Confusion Matrices for TC Labels: Zero-shot (left) & Few-shot (right)"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-12-5.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_9-1727606746",
+    "text": "Table 2. Goals and Dynamic Nature of Prompts"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-22-19.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_10-1727606823",
+    "text": "Figure 11. Ablation Study Results for Value Prompt"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-21-18.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_11-1727606841",
+    "text": "Figure 10. Ablation Study Results for Parameter Prompt"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-24-20.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_12-1727606863",
+    "text": "Figure 12. Implementation Process for BIM-GPT"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/table-16-2.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_13-1727606884",
+    "text": "Table 4. Example Preparation for Few-shot Scenarios"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-25-21.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_14-1727606920",
+    "text": "Figure 13. Data Preprocessing"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-9-3.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_15-1727606962",
+    "text": "Fig. 3. Dynamic Prompt Template and Its Use Cases"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-14-7.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_16-1727606992",
+    "text": "Figure 6. Example of How PM Processes NL Query"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-9-2.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_17-1727607013",
+    "text": "Fig. 2. Prompt: Aligning GPT Models with BIM IR"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-15-8.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_19-1727607077",
+    "text": "Table 3. Examples of Additional Annotations for NL Queries in BINLQ [15]"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/table-7-1.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_20-1727607122",
+    "text": "Table 1. Current NL-based Approaches for BIM IR with Limitations"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-20-17.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_21-1727607150",
+    "text": "Figure 9. Ablation Study Results for Intent Prompt"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-13-6.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_22-1727607170",
+    "text": "Figure 5. Prompt Manager: Converting NL Query into NL Answer"
+  },
+  {
+    "source": "/home/mab/Desktop/Malky/RAG/github_RAG/run_RAG/RAG_app/extracted_images/2304.09333v1/figure-27-22.jpg",
+    "formId": "2304.09333v1",
+    "filetype": ".jpg",
+    "chunk_id": "2304.09333v1-img_23-1727607208",
+    "text": "Figure 14. User Interface of VA Prototype: Chatbox (left); 3D Rendering (right)"
+  }
+]
