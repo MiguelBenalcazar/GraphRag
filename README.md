@@ -105,12 +105,19 @@ pip install --upgrade nltk
 
 
 ## llamaIndex
+
 pip install llama-index
+
 pip install llama-index-core
+
 pip install --quiet transformers torch
+
 pip install llama-index-embeddings-openai
+
 pip install llama-index-llms-openai
+
 pip install llama-index-postprocessor-colbert-rerank
+
 
 
 https://medium.com/@imabhi1216/implementing-rag-using-langchain-and-ollama-93bdf4a9027c
