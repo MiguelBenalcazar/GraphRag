@@ -7,7 +7,7 @@
 - python run_RAG.py
 
 - Verify the local host
-![Alt Text]([https://github.com/MiguelBenalcazar/GraphRag/blob/main/Screenshot%20from%202024-10-06%2021-34-33.png])
+![Alt Text](https://github.com/MiguelBenalcazar/GraphRag/blob/main/Screenshot%20from%202024-10-06%2021-34-33.png)
 
 
 # INSTALL PACKAGES
